@@ -1,3 +1,12 @@
+===============================================================================
+Project Info
+===============================================================================
+Name:		KenLib
+Author:		Grant Abernathy
+Date:		November 1st, 2025
+===============================================================================
+General Description
+===============================================================================
 Goal is to provide a header-only library for auto-detection of platforms.
 
 And or targets for platforms.
